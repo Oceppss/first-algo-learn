@@ -1,0 +1,5 @@
+# MLF Bot — Dependencies
+# pip install -r requirements.txt
+
+aiohttp>=3.9.0          # Async HTTP client untuk Binance REST API
+websockets>=12.0        # Async WebSocket client untuk Binance streams
