@@ -1,0 +1,18 @@
+{
+  "total_trades": 0,
+  "total_signals": 0,
+  "rejected": 0,
+  "win_rate": 0.0,
+  "total_pnl_usd": 0.0,
+  "avg_win_usd": 0.0,
+  "avg_loss_usd": 0.0,
+  "profit_factor": 0.0,
+  "avg_duration_sec": 0.0,
+  "tp_count": 0,
+  "sl_count": 0,
+  "timestop_count": 0,
+  "balance": 10000.0,
+  "pnl_pct": 0.0,
+  "open_positions": 0,
+  "session_end_ts": 1781179773414
+}
